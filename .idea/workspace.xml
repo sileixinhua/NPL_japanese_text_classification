@@ -2,486 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4f57a3-3f05-423d-b389-9a53eb10a2a6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bayes_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/mecab.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6231289.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6231503.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6231556.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6232886.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6232905.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6234156.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6235232.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6235553.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6235850.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6236767.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6236863.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6237290.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6238994.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239038.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239346.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239394.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239401.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239403.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239412.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239418.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239421.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239422.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239424.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239427.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239431.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239457.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239461.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239466.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239468.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239470.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239491.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239502.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239512.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239515.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239521.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239526.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239529.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239538.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239539.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239559.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239590.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239594.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239637.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239648.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239650.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239656.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239670.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239674.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239702.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239716.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239720.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239724.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239738.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239758.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239765.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239801.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239803.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239810.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239811.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239818.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239826.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239828.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239838.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239847.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239851.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239892.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239913.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239920.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239928.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239940.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239969.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239972.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239975.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239979.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/・科学/6239980.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6230325.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6230832.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6230939.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6231338.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6232011.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6232413.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6232441.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6232866.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6233175.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6233356.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6233609.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6233713.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6234235.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6234427.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6234802.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6234952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6235228.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6235758.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6236768.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6237545.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6237841.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6238667.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6238930.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239352.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239357.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239360.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239362.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239380.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239388.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239389.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239392.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239404.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239409.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239413.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239417.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239425.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239432.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239435.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239439.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239446.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239453.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239456.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239460.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239465.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239480.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239490.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239492.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239494.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239505.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239507.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239520.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239522.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239533.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239548.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239549.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239562.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239564.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239566.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239571.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239573.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239576.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239577.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239579.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239583.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239585.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239605.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239620.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239626.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239628.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239664.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239666.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239668.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239679.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239698.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239710.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239722.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239723.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239735.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239748.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239752.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239767.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239778.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239783.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239784.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239785.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239808.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239813.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239822.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239830.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239836.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239853.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239863.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239870.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239874.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239879.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239881.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239888.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239894.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239895.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239904.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239905.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239909.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239918.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239919.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239921.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239922.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239929.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239933.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239939.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239951.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239961.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239963.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239967.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239970.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239976.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239978.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239984.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239985.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国内）/6239989.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6230073.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6230307.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6230494.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6231068.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6233685.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6234564.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6235715.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6235740.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6236169.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6236481.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6236501.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6237014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6237334.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6238456.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6238582.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6238640.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6238864.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6238910.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239058.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239356.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239363.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239365.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239379.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239382.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239383.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239390.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239395.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239402.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239408.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239416.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239423.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239440.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239464.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239482.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239488.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239500.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239503.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239536.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239547.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239554.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239582.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239591.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239595.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239609.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239613.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239624.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239627.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239630.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239649.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239659.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239661.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239665.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239683.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239691.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239700.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239707.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239715.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239717.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239733.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239742.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239751.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239753.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239760.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239764.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239774.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239794.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239809.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239821.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239825.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239829.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239865.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239868.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239889.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239896.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239897.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239915.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239932.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239955.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239971.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239983.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/国際）/6239990.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6230528.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6231676.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6232771.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6233215.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6233534.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6234926.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6235065.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6235292.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6235838.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6236125.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6236509.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6236777.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6238215.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239364.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239367.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239372.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239377.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239381.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239387.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239393.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239396.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239398.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239426.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239428.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239434.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239438.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239443.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239462.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239463.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239467.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239484.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239496.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239497.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239498.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239499.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239504.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239519.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239524.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239525.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239527.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239530.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239534.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239541.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239543.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239545.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239550.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239551.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239558.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239567.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239568.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239580.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239581.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239589.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239593.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239600.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239607.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239612.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239618.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239621.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239623.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239629.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239643.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239651.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239655.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239672.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239678.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239685.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239686.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239692.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239695.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239705.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239706.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239711.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239712.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239725.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239741.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239745.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239746.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239769.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239771.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239775.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239781.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239791.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239792.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239804.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239814.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239835.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239845.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239849.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239858.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239862.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239866.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239883.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239893.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239899.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239901.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239902.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239903.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239930.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239935.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239941.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239942.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239947.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239956.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239959.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239973.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239986.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/地域）/6239987.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6230421.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6230578.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6230750.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6231814.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6232220.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6232989.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6233058.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6234062.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6235510.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6237175.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6238114.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6238542.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6238992.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239348.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239350.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239358.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239359.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239370.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239371.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239373.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239375.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239384.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239405.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239407.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239450.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239451.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239454.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239471.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239472.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239487.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239489.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239495.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239506.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239511.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239518.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239532.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239552.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239557.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239561.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239574.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239592.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239596.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239603.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239604.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239622.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239631.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239641.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239645.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239671.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239687.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239689.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239693.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239709.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239713.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239718.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239727.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239756.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239763.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239766.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239768.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239777.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239780.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239787.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239788.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239789.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239807.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239824.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239827.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239842.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239844.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239869.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239911.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239917.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239923.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239934.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239937.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239948.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239949.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239954.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239964.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/yahoo/process/経済）/6239974.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/アメリカ合衆国の経済史.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/雪国.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/text/Demo.class" afterPath="$PROJECT_DIR$/out/production/text/Demo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/text/TxtProcess.class" afterPath="$PROJECT_DIR$/out/production/text/TxtProcess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/text/WebSpider.class" afterPath="$PROJECT_DIR$/out/production/text/WebSpider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/text/WebSpiderYahoo.class" afterPath="$PROJECT_DIR$/out/production/text/WebSpiderYahoo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KNN.py" afterPath="$PROJECT_DIR$/KNN.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bayes.py" afterPath="$PROJECT_DIR$/bayes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/yahoo/process/エンタ/6230423.txt" afterPath="$PROJECT_DIR$/data/yahoo/process/エンタ/6230423.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Demo.java" afterPath="$PROJECT_DIR$/src/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TxtProcess.java" afterPath="$PROJECT_DIR$/src/TxtProcess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WebSpider.java" afterPath="$PROJECT_DIR$/src/WebSpider.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WebSpiderYahoo.java" afterPath="$PROJECT_DIR$/src/WebSpiderYahoo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -493,12 +16,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="803">
+              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -570,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -615,11 +137,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hutool_example/hutool_example_and_source_code_analysis" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -967,7 +491,6 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11927083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -979,6 +502,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1000,6 +524,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1209">
           <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding />
@@ -1010,9 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4134">
           <caret line="112" column="39" lean-forward="false" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,9 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
           <caret line="111" column="9" lean-forward="true" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,9 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3822">
           <caret line="98" column="52" lean-forward="false" selection-start-line="98" selection-start-column="52" selection-end-line="98" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,9 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3588">
           <caret line="98" column="52" lean-forward="true" selection-start-line="98" selection-start-column="52" selection-end-line="98" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="884" lean-forward="false" selection-start-line="0" selection-start-column="874" selection-end-line="0" selection-end-column="884" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3259" lean-forward="false" selection-start-line="0" selection-start-column="3255" selection-end-line="0" selection-end-column="3259" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1102,55 +620,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/yahoo/process/・科学/6239975.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/yahoo/6219976.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/yahoo/process/国際）/6237334.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/yahoo/process/国際）/6231068.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/雪国.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/yahoo/process/・科学/6239975.txt" />
+    <entry file="file://$PROJECT_DIR$/data/yahoo/6219976.txt" />
+    <entry file="file://$PROJECT_DIR$/data/yahoo/process/国際）/6237334.txt" />
+    <entry file="file://$PROJECT_DIR$/data/yahoo/process/国際）/6231068.txt" />
+    <entry file="file://$PROJECT_DIR$/data/雪国.txt" />
     <entry file="file://$PROJECT_DIR$/src/WebSpider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1158,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1168,32 +646,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-117">
           <caret line="85" column="58" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/mecab.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/アメリカ合衆国の経済史.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="0" column="304" lean-forward="true" selection-start-line="0" selection-start-column="304" selection-end-line="0" selection-end-column="304" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mecab.txt" />
+    <entry file="file://$PROJECT_DIR$/data/アメリカ合衆国の経済史.txt" />
     <entry file="file://$PROJECT_DIR$/src/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="803">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
