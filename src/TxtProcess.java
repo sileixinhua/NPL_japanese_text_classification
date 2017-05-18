@@ -3,6 +3,7 @@
  */
 import java.io.*;
 
+//将WebSpiderYahoo抓取下来的信息进行新闻内容的提取，并分类到不同的文件中（更具新闻的类型区分）
 public class TxtProcess {
     public static boolean createNewFile(String filePath) {
         boolean isSuccess = true;

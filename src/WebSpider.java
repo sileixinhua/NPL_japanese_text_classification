@@ -6,6 +6,7 @@ import java.net.URLConnection;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//抓取wiki上特定的信息
 public class WebSpider {
     public static boolean createNewFile(String filePath) {
         boolean isSuccess = true;

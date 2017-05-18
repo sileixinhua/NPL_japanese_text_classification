@@ -73,6 +73,10 @@ def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
 
 
 def testingNB():
+    f = open("./data/yahoo/process/エンタ/6230423.txt",'r', encoding='UTF-8')
+    line = f.readline()
+    print (line, end = '')
+
     listOPosts,listClasses = loadDataSet()
     myVocabList = createVocabList(listOPosts)
     trainMat=[]
