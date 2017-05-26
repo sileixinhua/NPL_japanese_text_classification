@@ -124,9 +124,9 @@ def classifyNB(vec2Classify, p0Vec, p1Vec):
     p1 = sum(vec2Classify * p1Vec)    
     p0 = sum(vec2Classify * p0Vec)
     if p1 > p0:
-        return "エンタ"
-    else:
         return "スポー"
+    else:
+        return "エンタ"
 
 def testingNB():
     listOPosts,listClasses = loadDataSet()
